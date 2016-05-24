@@ -1,0 +1,9 @@
+What were the big differences in hardware over the last few decades that MongoDB attempted to address?
+
+Answer:
+
+[Checked] Parallelism of cores
+[Checked] Parallelism of servers
+          Quantum computers
+          Faster clock speeds
+          More memory
